@@ -1,0 +1,7 @@
+{
+    "token": "",
+    "callback_url": "",
+    "replacements": {
+        "\\bfoo\\b": "bar"
+    }
+}
